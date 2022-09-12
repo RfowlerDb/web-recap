@@ -1,0 +1,35 @@
+/* *:Universal selector */
+
+ * {
+     
+    margin: 15;
+     padding: 0;
+     color: red;
+     text-align: center;
+     
+
+}
+
+/* tag name selector */
+
+p {
+
+
+}
+
+h3  {
+    font-size: 14px;
+}
+
+h3{
+    font-size: 24px;
+}
+
+/* Class-name selector */
+.heading {
+    font-style: italic;
+    
+/* id selector */
+#main-language {
+    font-weight: bold;
+}
