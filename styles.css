@@ -33,3 +33,10 @@ h3{
 #main-language {
     font-weight: bold;
 }
+.card {
+    width: 300;
+    margin: auto;
+    height: auto;
+    background-color: aquamarine;
+    color: blue;
+}
